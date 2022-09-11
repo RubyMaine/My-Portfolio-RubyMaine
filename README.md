@@ -5,7 +5,7 @@
   <br />
   <br />
 Сайт личного портфолио RubyMine.
-<br />
+
 [![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)](#)
 [![DUB](https://img.shields.io/badge/Powered%20by-PHP-blue.svg)]()
 [![DUB](https://img.shields.io/badge/version-8.0_8.1-green)]()
